@@ -1,0 +1,25 @@
+name: aurora-explora
+channels:
+- pytorch
+- conda-forge
+- nvidia
+- fastai
+- xformers/label/dev
+dependencies:
+- umap-learn
+- scikit-image
+- pytorch
+- torchvision
+- torchaudio
+- pytorch-cuda
+- transformers
+- diffusers
+- huggingface_hub
+- pillow
+- matplotlib
+- ipywidgets
+- nbdev
+- pandas
+- pyarrow
+- pip:
+  - clip-retrieval
