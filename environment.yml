@@ -15,6 +15,7 @@ dependencies:
 - transformers
 - diffusers
 - huggingface_hub
+- accelerate
 - pillow
 - matplotlib
 - ipywidgets
