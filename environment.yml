@@ -20,6 +20,7 @@ dependencies:
 - ipywidgets
 - nbdev
 - pandas
+- pip
 - pyarrow
 - pip:
   - clip-retrieval
