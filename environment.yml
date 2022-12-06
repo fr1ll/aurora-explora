@@ -23,5 +23,6 @@ dependencies:
 - pandas
 - pip
 - pyarrow
+- einops
 - pip:
   - clip-retrieval
